@@ -1,10 +1,3 @@
-#-*- coding: utf-8 -*-
-##------------------------------------------------------------------------
-## Case: Cobrança 
-## Autor: Prof. Roberto Angelo
-## Objetivo: Neurais Artificiais
-##------------------------------------------------------------------------
-
 
 # Bibliotecas padrão utilizadas
 import numpy as np

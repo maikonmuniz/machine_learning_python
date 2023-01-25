@@ -1,10 +1,3 @@
-#-*- coding: utf-8 -*-
-##------------------------------------------------------------------------
-## Case: Cobrança - Comparação de Técnicas
-## Autor: Prof. Roberto Angelo
-## Objetivo: Ajuste de Redes Neurais Artificiais
-##------------------------------------------------------------------------
-
 # Bibliotecas padrão
 import numpy as np
 import pandas as pd
